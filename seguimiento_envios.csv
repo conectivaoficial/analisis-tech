@@ -1,0 +1,101 @@
+ID_Envio,Producto,Cantidad,Ciudad_Origen,Ciudad_Destino,Fecha_Envio,Fecha_Entrega,Estado_Envio
+1,Cinturón,5,Bogotá,Medellín,2025-03-01,2025-03-04,Pendiente
+2,Camiseta,4,Cartagena,Barranquilla,2025-03-02,2025-03-05,En tránsito
+3,Zapatos,16,Barranquilla,Barranquilla,2025-03-03,2025-03-04,Retrasado
+4,Bufanda,13,Cali,Cali,2025-03-04,2025-03-06,Pendiente
+5,Gorra,13,Cartagena,Cartagena,2025-03-05,2025-03-08,Pendiente
+6,Bolso,15,Cali,Medellín,2025-03-06,2025-03-09,En tránsito
+7,Bolso,3,Barranquilla,Medellín,2025-03-07,2025-03-12,Retrasado
+8,Cinturón,5,Bogotá,Bogotá,2025-03-08,2025-03-10,En tránsito
+9,Chaqueta,15,Bogotá,Bogotá,2025-03-09,2025-03-11,Entregado
+10,Chaqueta,5,Barranquilla,Barranquilla,2025-03-10,2025-03-11,Entregado
+11,Gorra,18,Barranquilla,Barranquilla,2025-03-11,2025-03-14,Entregado
+12,Reloj,1,Barranquilla,Cali,2025-03-12,2025-03-16,Pendiente
+13,Camiseta,9,Barranquilla,Bogotá,2025-03-13,2025-03-17,Entregado
+14,Bufanda,9,Barranquilla,Cali,2025-03-14,2025-03-15,Pendiente
+15,Pantalón,19,Bogotá,Cali,2025-03-15,2025-03-16,Pendiente
+16,Zapatos,6,Medellín,Cartagena,2025-03-16,2025-03-17,Entregado
+17,Bolso,9,Cartagena,Cali,2025-03-17,2025-03-22,Pendiente
+18,Reloj,1,Cartagena,Bogotá,2025-03-18,2025-03-19,En tránsito
+19,Bolso,16,Cali,Cartagena,2025-03-19,2025-03-21,En tránsito
+20,Gorra,3,Bogotá,Cartagena,2025-03-20,2025-03-24,Entregado
+21,Camiseta,12,Medellín,Bogotá,2025-03-21,2025-03-22,Retrasado
+22,Vestido,10,Barranquilla,Cartagena,2025-03-22,2025-03-23,Entregado
+23,Pantalón,3,Medellín,Barranquilla,2025-03-23,2025-03-28,En tránsito
+24,Bufanda,18,Barranquilla,Bogotá,2025-03-24,2025-03-29,En tránsito
+25,Reloj,1,Cartagena,Cartagena,2025-03-25,2025-03-28,En tránsito
+26,Bufanda,16,Medellín,Medellín,2025-03-26,2025-03-30,En tránsito
+27,Chaqueta,3,Barranquilla,Barranquilla,2025-03-27,2025-03-29,En tránsito
+28,Bufanda,8,Cartagena,Medellín,2025-03-28,2025-03-29,Entregado
+29,Gorra,13,Barranquilla,Medellín,2025-03-29,2025-04-03,Entregado
+30,Pantalón,6,Bogotá,Barranquilla,2025-03-30,2025-04-04,Entregado
+31,Chaqueta,2,Bogotá,Medellín,2025-03-31,2025-04-03,Retrasado
+32,Bufanda,17,Medellín,Cartagena,2025-04-01,2025-04-02,Pendiente
+33,Chaqueta,9,Barranquilla,Cartagena,2025-04-02,2025-04-07,Pendiente
+34,Camiseta,8,Cartagena,Cartagena,2025-04-03,2025-04-05,En tránsito
+35,Chaqueta,2,Bogotá,Barranquilla,2025-04-04,2025-04-07,Retrasado
+36,Cinturón,5,Barranquilla,Cali,2025-04-05,2025-04-08,En tránsito
+37,Pantalón,6,Cartagena,Medellín,2025-04-06,2025-04-08,Pendiente
+38,Gorra,8,Cartagena,Cartagena,2025-04-07,2025-04-09,Pendiente
+39,Vestido,17,Bogotá,Barranquilla,2025-04-08,2025-04-12,En tránsito
+40,Gorra,6,Medellín,Cali,2025-04-09,2025-04-10,Pendiente
+41,Bolso,4,Cali,Bogotá,2025-04-10,2025-04-12,Retrasado
+42,Cinturón,16,Cartagena,Bogotá,2025-04-11,2025-04-15,Pendiente
+43,Vestido,3,Medellín,Cali,2025-04-12,2025-04-15,Pendiente
+44,Vestido,6,Barranquilla,Cali,2025-04-13,2025-04-15,Retrasado
+45,Gorra,6,Barranquilla,Cartagena,2025-04-14,2025-04-15,Pendiente
+46,Zapatos,12,Cali,Bogotá,2025-04-15,2025-04-19,Retrasado
+47,Gorra,12,Cartagena,Cartagena,2025-04-16,2025-04-18,Pendiente
+48,Chaqueta,2,Medellín,Medellín,2025-04-17,2025-04-20,En tránsito
+49,Vestido,4,Cartagena,Cartagena,2025-04-18,2025-04-23,Retrasado
+50,Pantalón,10,Cartagena,Cartagena,2025-04-19,2025-04-24,Pendiente
+51,Vestido,12,Bogotá,Medellín,2025-04-20,2025-04-23,En tránsito
+52,Gorra,7,Medellín,Cali,2025-04-21,2025-04-23,Pendiente
+53,Chaqueta,13,Medellín,Cartagena,2025-04-22,2025-04-24,Retrasado
+54,Gorra,16,Bogotá,Medellín,2025-04-23,2025-04-28,Entregado
+55,Chaqueta,18,Medellín,Bogotá,2025-04-24,2025-04-28,En tránsito
+56,Cinturón,9,Medellín,Barranquilla,2025-04-25,2025-04-27,En tránsito
+57,Zapatos,12,Cali,Cali,2025-04-26,2025-05-01,Entregado
+58,Bufanda,13,Barranquilla,Barranquilla,2025-04-27,2025-04-28,Pendiente
+59,Bolso,10,Medellín,Medellín,2025-04-28,2025-05-02,Pendiente
+60,Vestido,10,Bogotá,Cali,2025-04-29,2025-05-03,Retrasado
+61,Bolso,1,Barranquilla,Barranquilla,2025-04-30,2025-05-03,En tránsito
+62,Bufanda,1,Cali,Barranquilla,2025-05-01,2025-05-03,Entregado
+63,Pantalón,11,Cartagena,Barranquilla,2025-05-02,2025-05-03,Pendiente
+64,Gorra,1,Cartagena,Bogotá,2025-05-03,2025-05-08,Pendiente
+65,Reloj,5,Cali,Bogotá,2025-05-04,2025-05-09,Pendiente
+66,Zapatos,7,Bogotá,Bogotá,2025-05-05,2025-05-06,Entregado
+67,Gorra,16,Medellín,Barranquilla,2025-05-06,2025-05-11,Retrasado
+68,Bufanda,1,Medellín,Cartagena,2025-05-07,2025-05-11,En tránsito
+69,Cinturón,15,Barranquilla,Barranquilla,2025-05-08,2025-05-09,En tránsito
+70,Gorra,19,Cali,Barranquilla,2025-05-09,2025-05-11,En tránsito
+71,Reloj,9,Bogotá,Medellín,2025-05-10,2025-05-15,En tránsito
+72,Bufanda,8,Cartagena,Medellín,2025-05-11,2025-05-16,Retrasado
+73,Vestido,9,Medellín,Cali,2025-05-12,2025-05-17,Entregado
+74,Bolso,5,Medellín,Cartagena,2025-05-13,2025-05-16,En tránsito
+75,Gorra,5,Medellín,Medellín,2025-05-14,2025-05-17,Retrasado
+76,Chaqueta,3,Bogotá,Barranquilla,2025-05-15,2025-05-20,En tránsito
+77,Chaqueta,9,Bogotá,Barranquilla,2025-05-16,2025-05-20,En tránsito
+78,Camiseta,12,Barranquilla,Bogotá,2025-05-17,2025-05-20,En tránsito
+79,Reloj,2,Cali,Cartagena,2025-05-18,2025-05-19,Pendiente
+80,Bufanda,3,Cartagena,Bogotá,2025-05-19,2025-05-22,Retrasado
+81,Chaqueta,1,Bogotá,Medellín,2025-05-20,2025-05-23,Retrasado
+82,Vestido,13,Barranquilla,Barranquilla,2025-05-21,2025-05-22,En tránsito
+83,Vestido,9,Cali,Cartagena,2025-05-22,2025-05-23,En tránsito
+84,Reloj,14,Bogotá,Medellín,2025-05-23,2025-05-24,En tránsito
+85,Gorra,19,Bogotá,Bogotá,2025-05-24,2025-05-28,En tránsito
+86,Bolso,16,Cali,Bogotá,2025-05-25,2025-05-28,Entregado
+87,Zapatos,2,Medellín,Barranquilla,2025-05-26,2025-05-27,Entregado
+88,Cinturón,5,Bogotá,Cali,2025-05-27,2025-05-31,En tránsito
+89,Reloj,12,Cali,Barranquilla,2025-05-28,2025-06-01,En tránsito
+90,Bufanda,4,Bogotá,Cartagena,2025-05-29,2025-06-03,Retrasado
+91,Zapatos,10,Barranquilla,Cali,2025-05-30,2025-06-02,Entregado
+92,Camiseta,18,Medellín,Barranquilla,2025-05-31,2025-06-04,Entregado
+93,Reloj,5,Medellín,Cali,2025-06-01,2025-06-04,Pendiente
+94,Gorra,3,Cartagena,Medellín,2025-06-02,2025-06-05,Retrasado
+95,Vestido,8,Medellín,Barranquilla,2025-06-03,2025-06-07,Pendiente
+96,Camiseta,14,Medellín,Barranquilla,2025-06-04,2025-06-08,Entregado
+97,Camiseta,6,Bogotá,Medellín,2025-06-05,2025-06-10,En tránsito
+98,Gorra,13,Barranquilla,Bogotá,2025-06-06,2025-06-09,En tránsito
+99,Vestido,12,Medellín,Medellín,2025-06-07,2025-06-08,Pendiente
+100,Bolso,6,Cartagena,Cali,2025-06-08,2025-06-09,En tránsito
